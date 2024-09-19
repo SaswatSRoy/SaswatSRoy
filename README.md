@@ -12,8 +12,7 @@ I am currently a student studying IN NIT Rourkela B-tech 2nd Year in Computer Sc
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaswatSRoy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaswatSRoy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaswatSRoy&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
