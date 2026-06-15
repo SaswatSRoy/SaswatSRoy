@@ -1,5 +1,30 @@
 # 💫 About Me:
-I am currently a student studying in NIT Rourkela B-tech 2nd Year in Computer Science and Engineering.<br><br>I am currently studying Java as a Language for DSA and software.<br>And I am currently in my beginning phase as an App Developer (Native to Android Studio).<br>I know how to use Jetpack Compose and Kotlin for Android Development.<br><br>Currently I am aiming for a profession in App development/Software Engineer.<br>I want to collaborate and do Internships for projects and building my tech skills and hone it.<br><br>I love to Sing, Dance and have a great time with my fellow friends.<br><br>I am a tech Enthusiast, wanting to learn new things in my life and integrate it to create great solutions.<br><br>My only motto is "Keep Learning and Keep enjoying"..<br><br>📫 How to reach me - You can contact me through my gmail<br>😄 Pronouns: He/him<br>⚡ Fun fact: I want peer group in android
+I am currently a B.Tech student in Computer Science and Engineering at NIT Rourkela.<br><br>
+
+I am deeply passionate about building scalable software systems and exploring the intersection of Android development, backend engineering, and AI-powered applications.<br><br>
+
+My journey started with Java for Data Structures and Software Development, and over time I expanded into Kotlin, Jetpack Compose, Spring Boot, Apache Kafka, and on-device AI systems.<br><br>
+
+I have worked on real-world projects ranging from real-time ambulance booking platforms and Android performance intelligence tooling to high-volume Kafka pipelines and Edge AI-powered insurance claim systems.<br><br>
+
+Currently, I am focused on sharpening my skills in:<br>
+• Native Android Development (Kotlin + Jetpack Compose)<br>
+• Backend Systems (Spring Boot + Kafka)<br>
+• Distributed Systems and Observability<br>
+• Edge AI and On-device LLM Integrations<br><br>
+
+My goal is to grow as a Software Engineer by collaborating on impactful projects, contributing to open source, and gaining hands-on experience through internships.<br><br>
+
+Beyond tech, I love singing, dancing, and spending quality time with friends — because building great things starts with enjoying the journey too.<br><br>
+
+I’m always excited to learn new technologies, solve challenging problems, and connect with people who share the same passion for building.<br><br>
+
+My motto: "Keep Learning. Keep Building. Keep Enjoying."<br><br>
+
+📫 How to reach me — Feel free to connect through my Gmail<br>
+😄 Pronouns: He/Him<br>
+⚡ Fun fact: Always looking for a strong Android peer group to build and grow with
+
 
 
 ## 🌐 Socials:
