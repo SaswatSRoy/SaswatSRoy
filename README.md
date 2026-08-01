@@ -54,7 +54,7 @@
 > VALKEY // C, Tcl
   Traced & fixed a sanitizer-triggered memory-usage mismatch in CI tests.
 
-> OPENSRE // Java
+> OPENSRE // Python
   Dynamic provider-specific error labels and advanced logging for OpenAI-compatible clients.
 ```
 
