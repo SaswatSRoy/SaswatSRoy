@@ -63,7 +63,7 @@
 ## ◈ WORK HISTORY
 
 ```text
-> MARUTI SUZUKI INDIA LIMITED ................. [ MAY 2026 - PRESENT ]
+> MARUTI SUZUKI INDIA LIMITED ................. [ MAY 2026 - JUL 2026 ]
     STEP Intern, Software Engineering
     Audited a Spring Boot/AWS/Azure system serving 3.5L+ users.
     Built AWS Bedrock PoC decoupling the app from a single LLM provider.
@@ -86,6 +86,11 @@
 > MODELROUTER.lib ............................. [ IN PROGRESS ]
     Spring Boot library — unified interface for multiple LLM providers.
     Swap models, route intelligently, stay provider-agnostic.
+
+> Threatpath.app ............................. [ RELEASED ]
+    Graph-powered cybersecurity investigation agent.
+    FalkorDB + Cypher for connected evidence, explainable risk
+    assessment, and human-approved simulated response.
 
 > DROID_LENS.apk .............................. [ RELEASED ]
     On-device AI for Android performance diagnostics.
